@@ -1,0 +1,4 @@
+this is christlie and i am editing the hello wolr text file. how did i do this you may ask? using sudo nano and then the name of the text file. that's all for now, bye kissie emoji 
+
+
+X
